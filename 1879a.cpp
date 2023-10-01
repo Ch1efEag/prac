@@ -34,6 +34,7 @@ int32_t main()
         }
         if(flag==1) cout<<-1<<endl;
         else cout<<a<<endl;
+        int dsd;
 
     }
 return 0;
