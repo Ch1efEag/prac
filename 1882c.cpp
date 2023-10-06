@@ -12,7 +12,7 @@ int32_t main()
 {
     int T=1;
     cin>>T;
-    while(T--)
+    while(T--)  
     {
         int n;
         cin>>n;
